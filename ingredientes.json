@@ -1,0 +1,54 @@
+{
+    "ingredientes": [{
+        "name": "Tomate", "value": 40
+    },
+    {
+        "name": "Cebolla", "value": 40
+    },
+    {
+        "name": "Jamón", "value": 60
+    },
+    {
+        "name": "Morrón", "value": 50
+    },
+    {
+        "name": "Jalapeño", "value": 60
+    },
+    {
+        "name": "Choclo", "value": 50
+    },
+    {
+        "name": "Ananá", "value": 70
+    },
+    {
+        "name": "Pepperoni", "value": 70
+    },
+    {
+        "name": "Anchoas", "value": 60
+    },
+    {
+        "name": "Salchicha italiana", "value": 70
+    },
+    {
+        "name": "Hongos", "value": 60
+    }
+    ],
+    
+    "masas":[{
+        "name": "Gruesa", "value": 50
+    },
+    {
+        "name": "Fina", "value": 30
+    }
+    ],
+    
+    "salsas":[{
+        "name": "Roja", "value": 20
+    },
+    {
+        "name": "Blanca", "value": 30
+    }
+    ] 
+    
+}
+
